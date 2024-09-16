@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br" <head>
+<meta charset="UTF-8" <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Teste de listagem!</title>
+
+</head>
+<h1>Testando uma lista</h1>
+<p>minha lista ordenada:</p>
+<ol>
+    <li>item 1</li>
+    <li>item 2 </li>
+    <li>item 3 </li>
+</ol>
+<p>minha lista nao ordenada</p>
+<ul>
+    <li>item 1 </li>
+    <li>item 2 </li>
+    <li>item 3 </li>
+</ul>
+<p></p>
+<p></p>
+</body>
+
+</html>
