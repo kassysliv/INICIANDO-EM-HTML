@@ -1,0 +1,54 @@
+!DOCTYPE html>
+<html lang="pt-br" <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="Iconarchive-Childrens-Book-Animals-Butterfly.ico" type="image/x-icon">
+<title>hieraquia de títulos</title>
+</head>
+
+<body>
+    <h1>Entedendo Portugal</h1>
+    <H2>Introdução</H2>
+    <h3> justificação da temática</h3>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio nostrum error ab quos ex temporibus
+        voluptates, aperiam neque est sequi facere, dolores in magnam iste, impedit qui assumenda quaerat incidunt.</p>
+    <h3> caráter excecional</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam vitae corrupti debitis dolor odit? Quisquam rem
+        molestiae doloribus quia, culpa, porro sed sit temporibus ullam dolorum reiciendis, modi nihil atque.</p>
+    <h3> perguntas de partida</h3>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum et nam asperiores eaque ullam molestiae excepturi,
+        eum ut temporibus optio amet tempora quam numquam maiores, doloribus nisi nostrum rerum magni!</p>
+    <h3> metodologia de investigação</h3>
+    <h4>Etapas de investigação</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae consectetur veritatis quisquam porro hic
+        autem minima a, praesentium molestiae, qui at. Adipisci neque laborum odit dolor, fugit beatae sint mollitia?
+    </p>
+    <h4>Instrumentos de análise</h4>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque dolores itaque eveniet, nihil quibusdam quaerat
+        minus veritatis error ex corporis corrupti fuga mollitia totam. Neque architecto eius possimus fugit laborum!
+    </p>
+    <h2>Ordenamento do território em portugal</h2>
+    <h3> ordanamento do território em portugal</h3>
+    <h3> os instrumentos de gestão</h3>
+    <h4>instrumentos de planeamento</h4>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id exercitationem reiciendis eius impedit, error
+        corporis a obcaecati? Esse aliquid id eos fugiat doloremque magni impedit, iste natus quos rem quia.</p>
+    <h4>Os regimes terriórias</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi obcaecati nobis dolorum minima officiis
+        reprehenderit. In voluptatum asperiores consequuntur sunt vel assumenda qui laborum quia exercitationem
+        voluptates. Incidunt, quo voluptatem?</p>
+        <mark> ola meu nome e kassiane</mark>
+        <p>um</p>
+              <p>dois</p>
+              <li>  kassiane</li>
+              <li> jesefa</li> <li> k</li>
+              <div> kassiane</div>
+    
+
+        
+
+
+
+</body>
+
+</html>
