@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br"
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pagina 002</title>
+</head>
+<body>
+    <h1> esta é a segunda página do meu site</h1>
+    <p> a segunda página está aqui:</p>
+    <p> está página é um oferecimento de <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjkjLzD7syHAxXbQUgAHUSiH90YABACGgJjZQ&co=1&ase=2&gclid=EAIaIQobChMI5Iy8w-7MhwMV20FIAB1Eoh_dEAAYASAAEgIQ6_D_BwE&ohost&cid=CAASAuRo&sig=AOD64_1tLPXvslwDz5WZAF0wORMBHYqk3Q&q&nis=6&adurl=https://www.hostgator.com.br/hospedagem-de-sites-seu-sucesso?gad_source%3D5&nb=0&rurl=https%3A%2F%2Fwww.google.com%2F&nm=26&nx=299&ny=25&is=607x1503" target="_blank" rel=" external">Hostnest</a></p>
+    <p><a href="index.html" rel="prev">voltar para primeira página</a></p>
+    
+
+</body>
+</html>
