@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br" <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>outras formatacões</title>
+</head>
+
+<body>
+    <h1> outras formatações</h1>
+    <h2> código-fonte</h2>
+    <p>o comando <code>document.getElementById('teste')</code> é escrito em línguagem Javascript</p>
+    <pre>
+        <code>
+            num = int(input('Digite um numéro'))
+            if num % 2 == 0:
+            print(f' o numéro { num}) é PAR')
+            else:
+            print(f' o número {num} é ímpar')
+            print(' fim do programa')
+        </code>
+    </pre>
+<h2> citações</h2>
+<p> como diria o pai do meu amigo <q> o computador é um burro muito rápido</q></p>
+<h2> citações completas</h2>
+<p> segundo jeff noble, no seu livro HTML para lrigod:</p>
+<blockquote cite="https://www.google.com.br/books/edition/AJAX_and_Flash_Development_with_OpenLasz/sicZAAAACAAJ?hl=pt-BR&sa=X&ved=2ahUKEwjBn4bymrGHAxUKrZUCHc4GCisQiqUDegQIEBAC"> </body>blockquote>    
+    a diferença entre elementos inline e um bloco de texto é importante. os elementos html neste capítulo descreva os blocos de texto.
+</blockquote>
+<h2> abreviações</h2>
+<p> estou estudando <abbr title="HYPER TEXT MARKUP">HTML</abbr> e <abbr title="Cascading style sheets">CSS</abbr> estou adorando!</p>
+<p> <bdo dir="rtl"> Estou aprendendo a criar coisas em HTML.</bdo></p>
+</body>
+
+</html>
