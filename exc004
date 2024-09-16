@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br" <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trabalhando com links</title>
+</head>
+
+<body>
+    <h1> Usanso links externos</h1>
+    <p> você pode acessar o meu <a
+            href="https://www.instagram.com/reel/C9M5i7wOmbt/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+            target="_blank" rel=" external"> de estudos para programação</a>
+    <p> melhor musica em inglês cristã<a href="https://youtu.be/0A6MVs9w890?si=TRLpwr0rrH_pTue5"> ouça agora</a></p>
+    <h1> Usando links internos!</h1>
+    <p>está é a primeiraa página do site. se você quiser, pode acessar também a minha <a href="../index.html"
+            rel=" netx">segunda página</a></p>
+    <p> voce tambem pode acessar o nosso <a href="pagoo3.html" rel="netx">sites de noticias</a></p>
+
+    <h1> links para download</h1>
+    <ul>
+        <li><a href="livros/">baixar o livro em
+        PDF </a></li>
+        <li><a href="#"> livro compactado em ZIP</a></li>
+    </ul>
+
+</body>
+
+</html>
