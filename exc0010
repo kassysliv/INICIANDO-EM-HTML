@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br" <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Estilos inline</title>
+</head>
+
+<body style="background-color: rgb(162, 132, 122);">
+    <h1 style="background-color: aqua; font: size 20px;">Capítulo 1</h1>
+    <h2 style="background-color: blueviolet; font-size: 1.2em;">Capítulo 1.1</h2>
+    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas voluptatum excepturi, eum suscipit delectus animi
+        doloribus asperiores, ducimus quae, debitis illum in perspiciatis! Reiciendis ratione tenetur quisquam accusamus
+        placeat. Sint!</p>
+    <h2> Capítulo 1.2</h2>
+    <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, aspernatur laboriosam vel corporis iusto hic
+        officiis repudiandae. Perspiciatis blanditiis suscipit corporis accusamus! Blanditiis harum quibusdam cum
+        ducimus porro eligendi nostrum.</p>
+    <h1 style="background-color: aqua;">Capítulo 2</h1>
+    <h2 style="background-color: blueviolet; font: size 2.1em; ;">Capítulo 2.1</h2>
+    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste officia adipisci ea obcaecati voluptas at quae
+        molestiae nisi, in quia dolor vitae laborum ad laboriosam dicta nesciunt nobis. Mollitia, quas.</p>
+</body>
+
+</html>
