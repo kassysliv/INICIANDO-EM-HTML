@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>parágrafos e  quebra de linhas</h1>
+    <hr>
+    <p>você pode escrever
+        um parágrafo de qualquer jeito. 
+        basta colocar tudo
+        no meio do par de tags p e /p
+    </p>
+
+    <p>eu amo jesus cristo,ele é o meu melhor amigo!, você deveria conhecer-lo, ele é espetacular,&lt;br&gt; eu amo ler a biblía e fazer devocional.</p>
+    <p>vamos adicionar alguns símbolos especias
+     &reg;
+     &copy;
+     &trade;
+     &euro;
+     &pound;
+     &yen;
+     &cent;
+     &Delta;
+     &uarr;
+     </p>
+     <hr>
+     <p>vamos adicionat algus emoji
+       
+        &#x1f596;
+
+    </p>
+</body>
+</html>
